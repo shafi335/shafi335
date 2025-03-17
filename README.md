@@ -8,15 +8,7 @@
 <!-- ## My WordPress Course 
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
-
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
-	
-👨‍💻 AI Engineer CargoAI
-	
-💸 Help 80+ Clients via Generative AI & Automation
-
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
- 
+	 
 <h2>Tech Stack</h2>
 
 <table width="100">
